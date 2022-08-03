@@ -1,0 +1,21 @@
+{
+    "run": [
+        {
+            "rule": "addition",
+            "data": ""
+        },
+        {
+            "rule": "subtraction",
+            "data": ""
+        },
+        {
+            "rule": "multiplication",
+            "data": ""
+        },
+        {
+            "rule": "divide",
+            "data": ""
+        }
+    ],
+    "result": ""
+}
